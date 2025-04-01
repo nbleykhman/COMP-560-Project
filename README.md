@@ -1,5 +1,5 @@
 # COMP-560-Project
-
+Group Members: Kensho Pilkey, Nickolas Bleykhman, Kenneth Roberts, Raheq Hassan, and Kamal Deep Vasireddy
 
 # Game-Playing AI: Chess Agent  
 
